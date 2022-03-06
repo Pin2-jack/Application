@@ -1,4 +1,4 @@
-asgiref=3.3.4
+asgiref==3.3.4
 ca-certificates=2021.10.8=h5b45459_0
 certifi=2021.10.8=py39hcbf5309_1
 cffi=1.15.0=py39h0878f49_0
